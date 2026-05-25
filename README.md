@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 # Club-Member-Dashboard-BLR-SOT25
 
 ## 📋 Project Objective
 The objective of this project is to build a responsive member dashboard where users can navigate between sections using tabbed navigation, view membership information using status cards, visualize activity and statistics using Chart.js charts, and toggle between different real-time datasets without page reloads. 
+=======
+# CLUB MEMBER DASHBOARD
+
+## Project Overview
+CLUB MEMBER DASHBOARD is a frontend-only web application designed for a modern gym/club. It provides an intuitive, responsive interface for members to view their real-time membership insights, activity trends, and settings. 
+>>>>>>> dev
 
 This project simulates a real-world membership portal and is focused strictly on frontend implementation using mock JSON data and simulated APIs.
 
