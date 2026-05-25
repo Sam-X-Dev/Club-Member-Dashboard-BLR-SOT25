@@ -1,7 +1,7 @@
-# Project Understanding Notes: LeapX Member Dashboard
+# Project Understanding Notes: CLUB MEMBER DASHBOARD
 
 ## Project Name
-LeapX Member Dashboard
+CLUB MEMBER DASHBOARD
 
 ## Objective
 To build a responsive, interactive, frontend-only member dashboard for a gym/club called LeapX. It must provide users with real-time membership insights and charts without the need for page reloads.
