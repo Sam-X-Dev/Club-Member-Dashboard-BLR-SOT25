@@ -1,7 +1,7 @@
-# LeapX Member Dashboard
+# CLUB MEMBER DASHBOARD
 
 ## Project Overview
-LeapX Member Dashboard is a frontend-only web application designed for a modern gym/club. It provides an intuitive, responsive interface for members to view their real-time membership insights, activity trends, and settings. 
+CLUB MEMBER DASHBOARD is a frontend-only web application designed for a modern gym/club. It provides an intuitive, responsive interface for members to view their real-time membership insights, activity trends, and settings. 
 
 The dashboard operates entirely on the client side using mock data and simulated real-time updates without page reloads, ensuring a fast and seamless user experience.
 
